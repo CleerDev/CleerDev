@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CleerDev 
+- 👀 I’m interested in building a business that will deliver simple, static websites!
+- 🌱 I’m currently learning the JAMstack (specifically GatsbyJS paired with Strapi)
+- 📫 You can reach me at cleerapps@gmail.com
